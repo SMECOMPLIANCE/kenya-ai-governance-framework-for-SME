@@ -11,7 +11,7 @@ Kenyan Small and Medium Enterprises (SMEs) are rapidly adopting AI-powered tools
 - **Knowledge Gap:** Most SME owners lack expertise in tech law and do not understand critical concepts like "lawful basis for processing" or "data protection by design."
 - **Resource Scarcity:** Legal advice and compliance audits are prohibitively expensive, often costing tens of thousands of Kenyan shillings per hour beyond the reach of typical SMEs.
 - **Tooling Mismatch:** Existing compliance solutions target large corporations and are ill-suited to the unique needs and scale of SMEs.
-- **Enforcement Reality:** The Office of the Data Protection Commissioner (ODPC) in Kenya actively enforces the Data Protection Act, 2019, with penalties up to KES 5 million or 1% of annual turnover—posing existential risks for SMEs unaware of their compliance obligations.
+- **Enforcement Reality:** The Office of the Data Protection Commissioner (ODPC) in Kenya actively enforces the Data Protection Act, 2019, with penalties up to KES 5 million or 1% of annual turnover posing existential risks for SMEs unaware of their compliance obligations.
 
 ---
 
