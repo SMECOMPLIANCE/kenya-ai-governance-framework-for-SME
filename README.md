@@ -58,5 +58,5 @@ You are free to use, share, and adapt these resources for any purpose, provided 
 
 ---
 
-*Project AIDA is a public good initiative aimed at fostering responsible AI innovation within the Kenyan SME sector. For questions, feedback, or collaboration inquiries, please contact [Your Contact Info or GitHub Profile Link].*
+*Project AIDA is a public good initiative aimed at fostering responsible AI innovation within the Kenyan SME sector. For questions, feedback, or collaboration inquiries, please contact: sme.compliance.ke@zohomail.com*
 
