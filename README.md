@@ -43,9 +43,9 @@ These resources demystify compliance, close the knowledge gap, reduce reliance o
 ## What's in This Repository
 
 - WhitePaper_ProjectAIDA.pdf –  The complete AI governance framework white paper.  
-- AppendixA_PrivacyPolicy_Template.docx –  Editable AI-centric privacy policy template tailored for Kenyan SMEs.  
-- AppendixB_DPIA_Form.xlsx –  Simple and practical Data Protection Impact Assessment form.  
-- AppendixC_RoPA_Template.xlsx –  Record of Processing Activities spreadsheet designed for AI use cases.  
+- AppendixA_RoPA_Template.xlsx –  Record of Processing Activities spreadsheet designed for AI use cases. 
+- AppendixB_PrivacyPolicy_Template.docx –  Editable AI-centric privacy policy template tailored for Kenyan SMEs.  
+- AppendixC_DPIA_Form.xlsx –  Simple and practical Data Protection Impact Assessment form.   
 - AppendixD_AI_Risk_Checklist.docx –  Checklist to help SMEs identify and mitigate AI-specific risks.  
 - README.md –  This file, providing an overview and instructions.
 
