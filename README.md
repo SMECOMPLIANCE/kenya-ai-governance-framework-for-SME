@@ -4,31 +4,41 @@
 
 ---
 
-## The Problem
+## The Compliance Challenge
 
-Kenyan Small and Medium Enterprises (SMEs) are rapidly adopting AI-powered tools such as WhatsApp chatbots and automated customer service bots to grow their businesses. However, this comes with significant compliance challenges:
+Despite the opportunities AI presents, most Kenyan SMEs face four key obstacles:
 
-- **Knowledge Gap:** Most SME owners lack expertise in tech law and do not understand critical concepts like "lawful basis for processing" or "data protection by design."
-- **Resource Scarcity:** Legal advice and compliance audits are prohibitively expensive, often costing tens of thousands of Kenyan shillings per hour beyond the reach of typical SMEs.
-- **Tooling Mismatch:** Existing compliance solutions target large corporations and are ill-suited to the unique needs and scale of SMEs.
-- **Enforcement Reality:** The Office of the Data Protection Commissioner (ODPC) in Kenya actively enforces the Data Protection Act, 2019, with penalties up to KES 5 million or 1% of annual turnover posing existential risks for SMEs unaware of their compliance obligations.
+* **Knowledge Gap:**
+    Many SME owners and managers lack training in data protection law and AI governance. Concepts such as “lawful basis for processing” or “data protection by design” are often misunderstood or overlooked in day-to-day operations.
 
----
+* **Resource Constraints:**
+    Accessing legal and compliance expertise remains costly with professional advisory fees running into tens of thousands of shillings per hour, well beyond what most SMEs can afford.
 
-## The Solution
+* **Inadequate Tools:**
+    Existing compliance solutions are designed for large enterprises and are too complex, expensive, or irrelevant to the realities of smaller businesses.
 
-**Project AIDA** offers a pragmatic, accessible, and free governance framework tailored specifically for Kenyan SMEs using AI. It includes:
-
-- **The White Paper:** A concise, analytical document that explains the legal context, outlines the compliance challenge, and presents a clear, actionable AI governance framework.
-- **The Practical Toolkit:** Ready-to-use templates including:
-  - AI-centric Privacy Policy  
-  - Data Protection Impact Assessment (DPIA) form  
-  - Record of Processing Activities (RoPA) spreadsheet  
-  - AI Risk Checklist  
-
-These resources demystify compliance, close the knowledge gap, reduce reliance on costly legal services, and enable SMEs to demonstrate a good-faith effort to comply with the Data Protection Act.
+* **Active Enforcement Environment:**
+    The Office of the Data Protection Commissioner (ODPC) is actively enforcing the Kenya Data Protection Act, 2019, with penalties of up to KES 5 million or 1% of annual turnover. For many SMEs, a single enforcement action could threaten their survival.
 
 ---
+
+## The AIDA Solution
+
+Project AIDA (Artificial Intelligence Data Assurance) provides a practical, free, and SME-focused governance framework to help Kenyan businesses adopt AI responsibly and stay compliant with the law.
+
+### Key Components
+
+* **The White Paper:**
+    A concise, accessible guide that breaks down Kenya’s AI and data protection landscape, outlines the compliance challenges SMEs face, and introduces a structured, step-by-step AI governance approach.
+
+* **The Practical Toolkit:**
+    A collection of ready-to-use templates and checklists designed for immediate application by SMEs, including:
+    * AI-Focused Privacy Policy Template
+    * Data Protection Impact Assessment (DPIA) Form
+    * Record of Processing Activities (RoPA) Spreadsheet
+    * AI Risk Checklist (Appendix D)
+
+    These tools simplify compliance, bridge the knowledge gap, and reduce dependence on costly legal advisors  enabling SMEs to show a good-faith effort toward compliance and responsible AI use.
 
 ## How to Use This Framework
 
